@@ -2,7 +2,7 @@
 # -*- coding: iso-8859-15 -*-
 #this will get the top stories from HackerNews (news.ycombinator.com)
 
-from hn import HN, Story
+from HackerNews import HN, Story
 
 hn = HN()
 
